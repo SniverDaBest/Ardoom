@@ -1,2 +1,2 @@
-# Ardoom
- Arduino Doom Mock-up
+# About
+Ardoom is a small mockup of... you guessed it... Doom! You will need to use an Arduino. I would reccomend the Arduino Mega, because it will actually have enough pins for you to be able to use all the accesories. However, there may be some other ones that will work. I don't really know much about Arduino types, however coding on them is very easy. Just slap some components on, and boom, you can easily interface with them. But, that's enough about me. Ardoom will try to mock up Doom as hard as possible. I don't know how close it will be able to get to, but I myself will try.
